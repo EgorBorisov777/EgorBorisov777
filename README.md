@@ -15,11 +15,18 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=EgorBorisov777&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hi, i'm EgorBorisov777
-  <img src="https://media.giphy.com/media/l3vRkKQhaUZr1zT9u/giphy.gif" width="30px"/>
+  Hi, i'm EgorBorisov777 :wave:
 </h1>
+  
 </div>
+<h1>
+ :man_technologist: About Me:    
+</h1>
+ <h2>
+   I'm developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ural
+ </h2>
+ 
+---
 
-
-
+ asdfasfasdfasdf
 
