@@ -23,10 +23,18 @@
  :man_technologist: About Me:    
 </h1>
  <h2>
-   I'm developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ural
+   I'm developer <img src="https://media.giphy.com/media/LqbBfKqnrvFkI/giphy.gif" width="30"/> from Ural
  </h2>
  
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@Egoryshka777-blue?style=flat&logo=Telegram&logoColor=white)]((https://web.telegram.org/)https://web.telegram.org)
+
 ---
 
- asdfasfasdfasdf
+
 
