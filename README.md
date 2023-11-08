@@ -12,7 +12,14 @@
   <a href='https://instagram.com/borisovegor_?igshid=dDJnN2ZiOG9tNHh2&utm_source=qr'>
   <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>  
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=EgorBorisov777&style=flat-square&color=blue" alt=""/>
+<h1>
+  Hi, i'm EgorBorisov777
+  <img src="https://media.giphy.com/media/l3vRkKQhaUZr1zT9u/giphy.gif" width="30px"/>
+</h1>
 </div>
+
 
 
 
