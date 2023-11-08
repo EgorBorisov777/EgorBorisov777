@@ -26,7 +26,7 @@
    I'm developer <img src="https://media.giphy.com/media/LqbBfKqnrvFkI/giphy.gif" width="30"/> from Ural
  </h2>
  
--  :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+-  :telescope: i've been working as a frontend engineer/developer for 2 years.
 
 - :seedling: Exploring Technical Content Writing.
 
