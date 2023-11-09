@@ -30,7 +30,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my spare time, I do Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@Egoryshka777-blue?style=flat&logo=Telegram&logoColor=white)]((https://web.telegram.org/)https://web.telegram.org)
 
